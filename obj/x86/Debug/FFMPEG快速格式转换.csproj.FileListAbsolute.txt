@@ -1,0 +1,11 @@
+D:\Programming\C-Sharp\FFMPEG快速格式转换\bin\x86\Debug\FFMPEG快速格式转换.exe.config
+D:\Programming\C-Sharp\FFMPEG快速格式转换\bin\x86\Debug\FFMPEG快速格式转换.exe
+D:\Programming\C-Sharp\FFMPEG快速格式转换\bin\x86\Debug\FFMPEG快速格式转换.pdb
+D:\Programming\C-Sharp\FFMPEG快速格式转换\obj\x86\Debug\FFMPEG快速格式转换.csproj.AssemblyReference.cache
+D:\Programming\C-Sharp\FFMPEG快速格式转换\obj\x86\Debug\FFMPEG快速格式转换.csproj.SuggestedBindingRedirects.cache
+D:\Programming\C-Sharp\FFMPEG快速格式转换\obj\x86\Debug\FFMPEG快速格式转换.Form1.resources
+D:\Programming\C-Sharp\FFMPEG快速格式转换\obj\x86\Debug\FFMPEG快速格式转换.Properties.Resources.resources
+D:\Programming\C-Sharp\FFMPEG快速格式转换\obj\x86\Debug\FFMPEG快速格式转换.csproj.GenerateResource.cache
+D:\Programming\C-Sharp\FFMPEG快速格式转换\obj\x86\Debug\FFMPEG快速格式转换.csproj.CoreCompileInputs.cache
+D:\Programming\C-Sharp\FFMPEG快速格式转换\obj\x86\Debug\FFMPEG快速格式转换.exe
+D:\Programming\C-Sharp\FFMPEG快速格式转换\obj\x86\Debug\FFMPEG快速格式转换.pdb

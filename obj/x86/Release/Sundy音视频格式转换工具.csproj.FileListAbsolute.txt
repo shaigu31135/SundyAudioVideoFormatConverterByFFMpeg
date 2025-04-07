@@ -1,0 +1,10 @@
+D:\Programming\C-Sharp\Sundy音视频格式转换工具\obj\x86\Release\Sundy音视频格式转换工具.csproj.AssemblyReference.cache
+D:\Programming\C-Sharp\Sundy音视频格式转换工具\obj\x86\Release\Sundy音视频格式转换工具.csproj.SuggestedBindingRedirects.cache
+D:\Programming\C-Sharp\Sundy音视频格式转换工具\obj\x86\Release\FFMPEG快速格式转换.Form1.resources
+D:\Programming\C-Sharp\Sundy音视频格式转换工具\obj\x86\Release\FFMPEG快速格式转换.Form2.resources
+D:\Programming\C-Sharp\Sundy音视频格式转换工具\obj\x86\Release\Sundy音视频格式转换工具.csproj.GenerateResource.cache
+D:\Programming\C-Sharp\Sundy音视频格式转换工具\obj\x86\Release\Sundy音视频格式转换工具.csproj.CoreCompileInputs.cache
+D:\Programming\C-Sharp\Sundy音视频格式转换工具\bin\x86\Release\Sundy音视频格式转换工具.exe.config
+D:\Programming\C-Sharp\Sundy音视频格式转换工具\bin\x86\Release\Sundy音视频格式转换工具.exe
+D:\Programming\C-Sharp\Sundy音视频格式转换工具\obj\x86\Release\Sundy音视频格式转换工具.Properties.Resources.resources
+D:\Programming\C-Sharp\Sundy音视频格式转换工具\obj\x86\Release\Sundy音视频格式转换工具.exe

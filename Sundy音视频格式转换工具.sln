@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sundy音视频格式转换工具", "Sundy音视频格式转换工具.csproj", "{E52BE635-57ED-42F4-9E1B-88843D36E045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E52BE635-57ED-42F4-9E1B-88843D36E045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E52BE635-57ED-42F4-9E1B-88843D36E045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E52BE635-57ED-42F4-9E1B-88843D36E045}.Debug|x86.ActiveCfg = Debug|x86
+		{E52BE635-57ED-42F4-9E1B-88843D36E045}.Debug|x86.Build.0 = Debug|x86
+		{E52BE635-57ED-42F4-9E1B-88843D36E045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E52BE635-57ED-42F4-9E1B-88843D36E045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E52BE635-57ED-42F4-9E1B-88843D36E045}.Release|x86.ActiveCfg = Release|x86
+		{E52BE635-57ED-42F4-9E1B-88843D36E045}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B19692A-69DE-4ED6-A852-D0F9A40DFAF3}
+	EndGlobalSection
+EndGlobal
